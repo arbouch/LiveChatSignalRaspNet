@@ -1,0 +1,30 @@
+﻿<div class="container" style="padding-top:80px;">
+    <div class="row">
+        <div class="col-md-6">
+            <span>
+                Enter Your Name:
+            </span>
+            <br />
+            <input type="text" id="txtUser" />
+
+            <br />
+            <span>
+                Enter Your Message:
+            </span>
+            <br />
+            <textarea rows=10 cols=50 id="TxtMessage"></textarea>
+            <br />
+
+            <button type="submit" id="btnSend" class="btn btn-info">Send Message</button>
+
+
+        </div>
+        <div class="col-md-6">
+            <ul id="list" class="alert alert-info">
+            </ul>
+        </div>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/site.js"></script>
