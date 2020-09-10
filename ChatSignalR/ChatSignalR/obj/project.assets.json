@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\source\\repos\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
+      "projectUniqueName": "D:\\.net\\source\\repos\\SignalRChatAspNet\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
       "projectName": "ChatSignalR",
-      "projectPath": "D:\\.net\\source\\repos\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
+      "projectPath": "D:\\.net\\source\\repos\\SignalRChatAspNet\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\source\\repos\\ChatSignalR\\ChatSignalR\\obj\\",
+      "outputPath": "D:\\.net\\source\\repos\\SignalRChatAspNet\\ChatSignalR\\ChatSignalR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

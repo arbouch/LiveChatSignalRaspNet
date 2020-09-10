@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vrKjppUx5s7uUHBPGLMEgB+bdaXzlZUO/IpAidaz0dFlH56l/bUCGvEKWiTX6bqWM/hIQ+EtF5WqsF4u9W+soA==",
+  "dgSpecHash": "KyYY5uNyXHIVPbGfpauZbRibtvf6a8dTKeHMWIExRQfXkvei5uShKZQgqEVRIIHaeXeSSTzLxDK8+OMOS89GtA==",
   "success": true,
-  "projectFilePath": "D:\\.net\\source\\repos\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
+  "projectFilePath": "D:\\.net\\source\\repos\\SignalRChatAspNet\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
